@@ -1,0 +1,5 @@
+PWD /home/alex/Downloads/talk/Vorlagen
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT Praesentation16zu9.tex
+OUTPUT Praesentation16zu9.log
